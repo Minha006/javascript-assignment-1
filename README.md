@@ -1,2 +1,2 @@
-# javascript-assignment-1
-Here is my first javascript assignment
+# javascript-assignment-
+Chapter : 1 - 2
